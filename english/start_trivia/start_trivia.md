@@ -14,3 +14,4 @@ You read the eerie forewarning, and you looked at the options below and decided 
 [BOOKS](./books/books.md)
 [GAMES](./games/games.md)
 [FOOD](./food/food.md)
+[ANIMALS](./animals/animals.md)
