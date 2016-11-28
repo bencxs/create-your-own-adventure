@@ -15,3 +15,4 @@ You read the eerie forewarning, and you looked at the options below and decided 
 [GAMES](./games/games.md)
 [FOOD](./food/food.md)
 [ANIMALS](./animals/animals.md)
+[PEOPLE](./people/people.md)
