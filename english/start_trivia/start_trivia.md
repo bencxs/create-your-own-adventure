@@ -16,3 +16,4 @@ You read the eerie forewarning, and you looked at the options below and decided 
 [FOOD](./food/food.md)
 [ANIMALS](./animals/animals.md)
 [PEOPLE](./people/people.md)
+[COMMON MISCONCEPTIONS](./common_misconceptions/common_misconceptions.md)
