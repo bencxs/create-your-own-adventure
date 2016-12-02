@@ -19,3 +19,4 @@ You read the eerie forewarning, and you looked at the options below and decided 
 [COMMON MISCONCEPTIONS](./common_misconceptions/common_misconceptions.md)
 [FUTURE TIMELINE](./future_timeline/future_timeline.md)
 [PARADOXES](./paradoxes/paradoxes.md)
+[WAR](./war/war.md)
